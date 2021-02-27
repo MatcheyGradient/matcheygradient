@@ -6,8 +6,8 @@ work on side projects most of the time, but school is more important
 - java viruses (for fun lole)
 
 
-[stats](https://github-readme-stats.vercel.app/api?username=MatcheyGradient&show_icons=true)  
-[langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MatcheyGradient)]
+[![stats](https://github-readme-stats.vercel.app/api?username=MatcheyGradient&show_icons=true)
+[![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MatcheyGradient)]
 
 
 you can reach me on discord with Matchey#1300
