@@ -1,5 +1,5 @@
--i code in java, looking forward to start python though.
--i work on small projects most of the time.
+• i code in java, looking forward to start python though.
+• i work on small projects most of the time.
 
 # projects
 - discord webhook tester(s)
