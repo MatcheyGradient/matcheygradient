@@ -5,10 +5,9 @@ work on side projects most of the time, but school is more important
 - discord webhook tester(s)
 - java viruses (for fun lole)
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/MatcheyGradient)  
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MatcheyGradient)](https://github.com/anuraghazra/github-readme-stats)
+[stats](https://github-readme-stats.vercel.app/api?username=MatcheyGradient&show_icons=true)  
+[langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MatcheyGradient)]
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=MatcheyGradient&show_icons=true)  
 
 you can reach me on discord with Matchey#1300
