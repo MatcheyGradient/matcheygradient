@@ -3,6 +3,7 @@ i work on small projects most of the time.
 
 # projects
 - discord webhook tester(s)
+- discord webhook nuker (beta)
 - java viruses (for fun lole)
 
 you can reach me on discord with Matchey#1300
