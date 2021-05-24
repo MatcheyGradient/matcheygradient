@@ -1,7 +1,8 @@
-i code in java, looking forward to start python though.<br />
+im learing java, mostly for minecraft utility mods.<br />
 i work on small projects most of the time.
 
 # projects
+- velocity minecraft client (main)
 - discord webhook tester(s)
 - discord webhook nuker (beta)
 - java viruses (for fun lole)
