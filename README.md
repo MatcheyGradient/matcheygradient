@@ -3,6 +3,7 @@ i work on small projects most of the time.
 
 # projects
 - text encryptors 
+- cyclone client
 - velocity minecraft client - stopped
 - discord webhook tester(s) - stopped
 - discord webhook nuker (beta) - stopped
