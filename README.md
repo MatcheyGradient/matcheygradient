@@ -1,13 +1,15 @@
-im learing java, mostly for minecraft utility mods.<br />
+i have learned java (better than last time) , no longer working on minecraft stuff though.<br />
 i work on small projects most of the time.
 
 # projects
-- text encryptors 
-- cyclone client
+- text encryptors - ehhhhh paused
+- cyclone client - maybe (code words for probably never)
 - velocity minecraft client - stopped
 - discord webhook tester(s) - stopped
 - discord webhook nuker (beta) - stopped
-- java viruses (for fun lole)
+- java viruses (for fun lole) ayo what 🤨
+
+currently, i am mostly working on different projects that can strengthen my knowledge of java
 
 you can reach me on discord with Matchey#1300
 
