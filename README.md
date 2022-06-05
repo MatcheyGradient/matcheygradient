@@ -1,1 +1,1 @@
-i dont even code java anymore 💀
+correction: i dont code anymore.
