@@ -4,3 +4,4 @@ I don't think I know the ins and outs of java or that I know some basic things i
 # projects
 - tetris
 - game of life
+- 2d rubiks cube visualizer
