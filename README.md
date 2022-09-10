@@ -6,3 +6,5 @@ i am currently learning java as well as beginning to learn c++ cause it looks fu
 - tetris
 - game of life
 - logic sim
+
+my next biggest project will probably be a simple neural network because machine learning is a really interesting topic
